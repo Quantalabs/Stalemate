@@ -1,4 +1,4 @@
-# Rook
+# Pawn
 A simple, lightweight, python chess graphics engine.
 
 ## Installation
