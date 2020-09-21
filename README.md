@@ -19,7 +19,7 @@ This will import everything in the library.
 
 Use `draw_board()` to create graphics.
     
-    draw_board(board_array, next_back=false)
+    draw_board(board_array)
     
 The `board_array` parameter is the array of the board position. It should
 look a little bit like this:

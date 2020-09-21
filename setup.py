@@ -1,14 +1,11 @@
 import setuptools
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
-
 setuptools.setup(
     name='Pawn',
     version='1.0.0',
     author='QLabs',
     description='A Simple, Lightweight, Python Chess Graphics Package',
-    long_description=long_description,
+    long_description=open("README.md","r").read(),
     long_description_content_type='text/markdown',
     url="https://github.com/quantalabs/pawn",
     packages=setuptools.find_packages(),
