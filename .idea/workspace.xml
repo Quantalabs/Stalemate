@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603074079563</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update to Latest Version">
+      <created>1603074383754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603074383754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,10 +144,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="463" y="186" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603072864435" />
-    <state x="552" y="275" key="Vcs.Push.Dialog.v2" timestamp="1603074082557">
+    <state x="552" y="275" key="Vcs.Push.Dialog.v2" timestamp="1603074386404">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603074082557" />
+    <state x="552" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603074386404" />
     <state x="682" y="457" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601671434353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
