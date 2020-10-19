@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603074383754</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Auto Publishes to PyPI and added Issue Template">
+      <created>1603074577380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603074577380</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Auto Publishes to PyPI and added Issue Template">
+      <created>1603074837747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603074837747</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update to Latest Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update to Latest Version" />
+    <MESSAGE value="Auto Publishes to PyPI and added Issue Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auto Publishes to PyPI and added Issue Template" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1601682064674">
@@ -144,10 +159,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="463" y="186" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603072864435" />
-    <state x="552" y="275" key="Vcs.Push.Dialog.v2" timestamp="1603074386404">
+    <state x="552" y="275" key="Vcs.Push.Dialog.v2" timestamp="1603074589286">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603074386404" />
+    <state x="552" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603074589286" />
     <state x="682" y="457" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601671434353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
