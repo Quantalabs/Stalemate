@@ -1,36 +1,20 @@
-# Pawn
+# Stalemate
 A simple, lightweight, python chess graphics engine.
 
 ## Installation
 
 Use the pip to install
 
-    pip install Pawn
+    pip install Stalemate
 
 ## Import
 
-To import pawn to use graphics, use this:
+To import Stalemate to use graphics, use this:
 
-    from Pawn import *
+    from Stalemate import *
    
 This will import everything in the library.
 
-## Graphics
+## Documentation
 
-Use `draw_board()` to create graphics.
-    
-    draw_board(board_array)
-    
-The `board_array` parameter is the array of the board position. It should
-look a little bit like this:
-
-    board = ["♖", "♘", "♗", "♕", "♔", "♗", "♘", "♖",
-            "♙", "♙", "♙", "♙", "♙", "♙", "♙", "♙",
-             0, 0, 0, 0, 0, 0, 0, 0,
-             0, 0, 0, 0, 0, 0, 0, 0,
-             0, 0, 0, 0, 0, 0, 0, 0,
-             0, 0, 0, 0, 0, 0, 0, 0,
-             "♟", "♟", "♟", "♟", "♟", "♟", "♟", "♟",
-             "♜", "♞", "♝", 0, "♚", "♝", "♞", "♜"]
-             
-Zeros mean that the square is empty. 
+To see how to use stalemate, visit the github [wiki](https://github.com/Quantalabs/Stalemate/wiki).
