@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 def draw(board):
     root = Tk()
     root.title('Stalemates')
