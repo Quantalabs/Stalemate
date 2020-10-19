@@ -1,0 +1,8 @@
+README.md
+setup.py
+Stalemate/__init__.py
+Stalemate/draw.py
+Stalemate.egg-info/PKG-INFO
+Stalemate.egg-info/SOURCES.txt
+Stalemate.egg-info/dependency_links.txt
+Stalemate.egg-info/top_level.txt

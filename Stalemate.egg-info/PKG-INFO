@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: Stalemate
+Version: 1.0.0
+Summary: A simple, lightweight, python chess graphics package.
+Home-page: https://github.com/quantalabs/stalemate
+Author: qlabs
+License: UNKNOWN
+Description: # Stalemate
+        A simple, lightweight, python chess graphics engine.
+        
+        ## Installation
+        
+        Use the pip to install
+        
+            pip install Stalemate
+        
+        ## Import
+        
+        To import Stalemate to use graphics, use this:
+        
+            from Stalemate import *
+           
+        This will import everything in the library.
+        
+        ## Documentation
+        
+        To see how to use stalemate, visit the github [wiki](https://github.com/Quantalabs/Stalemate/wiki).
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
