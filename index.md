@@ -17,4 +17,4 @@ Now, add it to your python program:
   from Stalemate import *
   ```
   
-To see the complete docs, view the [Github Wiki](https://github.com/Quantalabs/Stalemate/Wiki)
+To see the complete docs, view the [Github Wiki](https://github.com/Quantalabs/Stalemate/wiki)
