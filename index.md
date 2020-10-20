@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Stalemate
+A Simple, Lightweight, Python Chess Graphics Engine
 
-You can use the [editor on GitHub](https://github.com/Quantalabs/Stalemate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+Stalemate is a chess graphics engine which creates graphics for your chess games to help you visualize games. Use it in your advanced Chess AI, chess studying, and almost anything which requires a chess board.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Get Started
+First, install Stalemate through the command prompt or terminal:
 
-### Markdown
+  ```console
+  py -m pip install Stalemate
+  ```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now, add it to your python program:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Quantalabs/Stalemate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  ```python
+  from Stalemate import *
+  ```
+  
+To see the complete docs, view the [Github Wiki](https://github.com/Quantalabs/Stalemate/Wiki)
