@@ -1,6 +1,7 @@
 # Stalemate
 A simple, lightweight, python chess graphics engine.
 <br>
+<br>
 ![build](https://github.com/Quantalabs/Stalemate/workflows/build/badge.svg)
 
 ## Installation
